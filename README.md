@@ -6,9 +6,9 @@ This project implements an efficient one-round private set intersection using pa
 Before building the project, ensure the following libraries are installed:
 
 1. **OpenSSL**
-2. **GMP** (GNU Multiple Precision Arithmetic Library)
-3. **Relic** (Cryptographic toolkit)
-
+2. **GMP**
+3. **Relic**
+   
 ## Build the Project
 
 ```bash
