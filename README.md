@@ -1,6 +1,6 @@
-# Efficient-One-Round-Private-Set-Intersection-using-Pairings-with-Offline-Preprocessing
+# Efficient One-Round Private Set Intersection using Pairings with Offline Preprocessing
 
-This project implements a efficient one-round private set intersection using pairings with offline preprocessing
+This project implements an efficient one-round private set intersection using pairings with offline preprocessing
 
 ## Required Libraries
 Before building the project, ensure the following libraries are installed:
