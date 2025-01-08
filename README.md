@@ -20,7 +20,7 @@ make
 
 ## Running the Code
 - `-p`: Port number
-- `-t`: Number of threads
+- `-n`: Sender's dataset log size
 - `-m`: Receiver's dataset log size
 
 ## Example
