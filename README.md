@@ -6,7 +6,6 @@ Before building the project, ensure the following libraries are installed:
 
 1. **OpenSSL**
 2. **GMP**
-3. **Relic library**
 
 ## Build the Project
 
