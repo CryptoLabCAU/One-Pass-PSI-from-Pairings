@@ -5,7 +5,7 @@
 #include <cstring>
 #include <unistd.h>
 
-#include <relic.h>
+#include "relic.h"
 #include <openssl/evp.h>
 #include <openssl/sha.h>
 
