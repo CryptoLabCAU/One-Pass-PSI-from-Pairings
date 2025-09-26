@@ -6,7 +6,6 @@
 #include <arpa/inet.h>
 #include <fcntl.h>  // for open
 #include <unistd.h> // for close
-#include <relic.h>
 #include <mutex>
 #include <vector>
 #include <algorithm>
