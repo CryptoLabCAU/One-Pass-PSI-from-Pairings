@@ -1,5 +1,5 @@
 # Efficient One-Pass Private Set Intersection from Pairings with Offline Preprocessing
-This project implements an efficient one-pass private set intersection from pairings with offline preprocessing
+This project implements the protocols described in [Efficient One-Pass Private Set Intersection from Pairings with Offline Preprocessing](https://esorics2025.sciencesconf.org/).
 
 ## Required Libraries
 Before building the project, ensure the following libraries are installed:
