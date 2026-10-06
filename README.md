@@ -29,7 +29,5 @@ make
 |---|---|
 | `-nn`, `-mm` | log2 of the sender's / receiver's set size (default 10) |
 | `-nt` | number of threads (default 1) |
-| `-online` | use loopback TCP instead of in-memory channels |
+| `-online` | communicate over TCP |
 | `-v` | print detailed timers |
-
-Party times exclude time spent waiting for the other party.
